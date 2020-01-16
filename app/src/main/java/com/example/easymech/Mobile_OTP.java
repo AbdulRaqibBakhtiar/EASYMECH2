@@ -81,7 +81,7 @@ public class Mobile_OTP extends AppCompatActivity {
             @Override
             public void onComplete(@NonNull Task<AuthResult> task) {
                 if (task.isSuccessful()) {
-                    Intent int2 = new Intent(Mobile_OTP.this, MainActivity.class);
+                    Intent int2 = new Intent(Mobile_OTP.this, Base_Home.class);
                     int2.setFlags(int2.FLAG_ACTIVITY_NEW_TASK | int2.FLAG_ACTIVITY_CLEAR_TASK);
                     startActivity(int2);
 

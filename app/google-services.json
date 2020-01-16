@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1079572206623",
+    "firebase_url": "https://easymech-8fc15.firebaseio.com",
+    "project_id": "easymech-8fc15",
+    "storage_bucket": "easymech-8fc15.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1079572206623:android:a0b4873889c2e3b7e3312a",
+        "android_client_info": {
+          "package_name": "com.example.easymech"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1079572206623-vi77ivppbsdvihlhid9odusngegh7ptc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.easymech",
+            "certificate_hash": "f7a20aa5b9f925f0cf057c8c1dc3e914eca69b89"
+          }
+        },
+        {
+          "client_id": "1079572206623-mvvqpf9v9sb87t1b0r1htpar8rkdvllv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUW51PjE4iz3YIU1M77xxGTwQmM3uZNcs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1079572206623-mvvqpf9v9sb87t1b0r1htpar8rkdvllv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

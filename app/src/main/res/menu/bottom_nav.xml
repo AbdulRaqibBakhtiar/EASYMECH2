@@ -16,8 +16,15 @@
         android:title="Notifications" />
 
     <item
+        android:id="@+id/nav_favorites"
+        android:icon="@drawable/nav_favorites"
+        android:title="Favorites" />
+
+    <item
         android:id="@+id/nav_search"
         android:icon="@drawable/ic_search_black_24dp"
         android:title="Search" />
+
+
 
 </menu>

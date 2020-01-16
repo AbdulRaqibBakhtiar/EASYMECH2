@@ -2,15 +2,17 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.example.easymech">
 
-    <uses-permission android:name="android.permission.INTERNET"/>
-    <uses-permission android:name="android.permission.CALL_PHONE"/>
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.CALL_PHONE" />
 
     <application
         android:allowBackup="true"
         android:label="@string/app_name"
         android:supportsRtl="true"
         android:theme="@style/Theme.AppCompat.Light.NoActionBar">
-        <activity android:name=".Mechanic_Profile_Options"></activity>
+        <activity android:name=".Fargot_Password"></activity>
+        <activity android:name=".Base_Home" />
+        <activity android:name=".Mechanic_Profile_Options" />
         <activity android:name=".Services_LIsts" />
         <activity android:name=".Batteriesss" />
         <activity android:name=".Paint_Denting" />

@@ -155,6 +155,10 @@ public class Services_LIsts extends AppCompatActivity implements NavigationView.
                             selectedFrag = new NotifyFragment();
                             break;
 
+                        case R.id.nav_favorites:
+                            selectedFrag = new FavoritesFragment();
+                            break;
+
                         case R.id.nav_search:
                             selectedFrag = new SearchFragment();
                             break;
